@@ -108,4 +108,4 @@ async def get_commands():
 
 asyncio.run(get_commands())
 
-bot.run("MTIwNDgxMTUwMDQ5NDEzNTQzNg.G_C8q7.v8gnP-8nL4DU9CpuByhH16ktJHJ6qHybEHxiDw")
+bot.run("TOKEN")
